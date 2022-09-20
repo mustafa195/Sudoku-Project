@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1663547837 source:c:\users\lenovo\desktop\exam\sudoku\main.c
+	<stdio.h>
+	<stdlib.h>
+	"sudoko.h"
+
+1663547695 c:\users\lenovo\desktop\exam\sudoku\sudoko.h
+
+1663547695 source:c:\users\lenovo\desktop\exam\sudoku\sudoko.c
+	<stdio.h>
+	<stdlib.h>
+	<Windows.h>
+	"sudoko.h"
+
